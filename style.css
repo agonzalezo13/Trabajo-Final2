@@ -1,0 +1,55 @@
+*{
+    color: black;
+    
+}
+
+.opcion{
+    transition: 0,9s;
+    font-size: 30px;
+    border-right:1px solid gray ;
+    border-left: 1px solid gray;
+}
+.opcion:hover{
+    border-top:1px solid blue ;
+}
+
+.cultivo{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto{
+    font-size: 30pt;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.texto1{
+    font-size: 30pt;
+    color: gray;
+    
+    top: 10px;
+    left: 10px;
+}
+
+.scultivo{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.foot{
+    color: white;
+}
+
+
+/* Slider*/
+.stext{
+    border-radius: 25px;
+    
+}
+
+
+
